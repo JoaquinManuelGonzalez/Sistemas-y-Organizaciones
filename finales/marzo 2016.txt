@@ -1,0 +1,23 @@
+ 1- Describir el funcionamiento de una Organizacion como sistema. Cuales son sus principales componentes, realizar una descripcion del funcionamiento de los mismos y de su relacion.
+
+2-Justificar porque la Organizacion es un sistema finalista. Explicar cuando pierde identidad y los posibles motios.
+
+3-Cuales son los cambios y acciones que puede realizar un sistema organizacion para mantener su equilibrio y adaptarse a las variaciones de contexto.
+
+4-Caracteristicas de la informacion y las decisiones, segun su relacion con los niveles de una organizacion.
+
+5-Describir en un sistema Organizacion que es la complejidad, definir sus tipos. Como se relaciona la complejidad con el sistema de regulacion de dicha organizacion.
+
+6-Identificar y explicar las distintas arquitecturas organizacionales con las cuales puede funcionar un sistema Organizacion cualquiera. Explicar ventajas y desventajas. Que caracteristicas deben tener los adaptadores.
+
+7-Como justifica la eliminacion de una actividad en un proceso.
+
+8-Que es un proceso. Tipos de procesos dentro de una organizacion. Que es el mapa de procesos y para que sirve.
+
+9-Como funciona una organizacion orientada a procesos y cuales son sus ventajas respecto a una organizacion tradicional.
+
+10-En que consiste la medicion de procesos, para que se realiza y cual es su relacion con el concepto de calidad.
+
+11-Explicar como funciona la relacion dato, informacion, conocimiento.
+
+12-Describir una organizacion inteligente y como funciona.
