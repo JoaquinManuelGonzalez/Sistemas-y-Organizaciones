@@ -17,6 +17,9 @@ Repositorio de material de estudio para la materia **Sistemas y Organizaciones**
 
 ## Links a Prácticas Resueltas
 
+- [Trabajo Grupal](https://github.com/JoaquinManuelGonzalez/Sistemas-y-Organizaciones/tree/main/practica/Resolucion%20Trabajo)
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3o3dXVsd2x4bDRreTE3dWs0M3llM3M1dnk5bGt2bmo2NHVla25zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9MWOzgGJ6RLL2se3B4/giphy.gif" alt="Como me siento con esta materia" width="600" height="auto" loop>
 </p>
+
